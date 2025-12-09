@@ -1,0 +1,18 @@
+{
+  "name": "com.draganstamenkovic.objectpooldebugger",
+  "version": "1.0.0",
+  "displayName": "Object Pool Debugger",
+  "description": "Runtime & Editor utilities for debugging object pools: spawns, despawns, capacity, leaks and simple profiling.",
+  "unity": "6000.3",
+  "author": {
+    "name": "Dragan Stamenkovic",
+    "url": "https://github.com/draganstamenkovic/object-pool-debugger"
+  },
+  "keywords": [
+    "unity",
+    "pooling",
+    "debugger",
+    "editor",
+    "tools"
+  ]
+}
