@@ -1,4 +1,5 @@
 # Object Pool Debugger
+![object-pool-debugger-demo](https://github.com/user-attachments/assets/fb328d0c-3561-42c9-b3ba-85f4badb69a1)
 
 A lightweight runtime + editor package to debug GameObject pools:
 - Live pool overview: active/inactive counts, rates, max observed size
