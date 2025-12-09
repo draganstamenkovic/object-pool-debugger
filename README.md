@@ -7,7 +7,8 @@ A lightweight runtime + editor package to debug GameObject pools:
 - Simple example pool & spawner included
 
 ## Installation
-- Place `com.draganstamenkovic.objectpooldebugger` into `Packages/` or install via Git URL once published.
+- Use Unity Package Manager → Add package from Git URL:
+<br>https://github.com/draganstamenkovic/object-pool-debugger.git
 
 ## Quick test
 1. Create a scene.
@@ -21,5 +22,3 @@ The window will show the created pool; spawn/despawn activity is tracked and dis
 
 ## Integration
 Call `PoolDebuggerRuntime.Instance.NotifySpawn(poolId, gameObject)` and `NotifyDespawn` in your own pool implementation to report events.
-
-MIT License.
